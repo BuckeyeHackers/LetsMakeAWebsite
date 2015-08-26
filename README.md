@@ -1,20 +1,20 @@
 # LetsMakeAWebsite
 
-This is our step by step tutorial on making your first website and hosting it for free using GitHub. There are 3 components to a client side web application - HTML, CSS, and JavaScript. This tutorial leaves out the JavaScript. We'll add it in the future. 
+This is our step by step tutorial on making your first website and hosting it for free using GitHub. There are 3 components to a client side web application - HTML, CSS, and JavaScript. This tutorial leaves out the JavaScript. We'll add it in the future.
 
 # Some Definitions
 
 ## HTML
-HTML is the structure of the webpage. 
+HTML is the structure of the webpage.
 
 ## CSS
-CSS is the style of the webpage. It uses the structure, laid out the HTML. 
+CSS is the style of the webpage. It uses the structure, laid out the HTML.
 
 ## Let's start with our text editor
 
-We recommend [Atom](https://atom.io/). It's made by Github, which you'll learn to love. 
+We recommend [Atom](https://atom.io/). It's made by Github, which you'll learn to love.
 
-You can use any other text editor, of course. [Sublime Text](http://www.sublimetext.com) is another good alternative. 
+You can use any other text editor, of course. [Sublime Text](http://www.sublimetext.com) is another good alternative.
 
 ## 1. Now, let's make a file!
 
@@ -34,7 +34,7 @@ Now, let's make some cool web dev stuff.
 
 Open the file with your text editor of choice (right click -> open with -> *insert your text editor*); a blank box with some numbers off to the side representing the number of lines of code. Go ahead and type your first three lines of code:
 
-```
+```html
 <html>
     Hello, World!
 </html>
@@ -44,3 +44,4 @@ Save the file and press refresh in your web browser. You should see some simple 
 
 Now let's make this place a little more friendly. How about a nice shade of blue?
 
+Inside the same directory as your index.html, create a new folder with the name "style". Inside this folder, create a file named "style.css". Next, open "style.css" in your text editor. Insert the following lines:
