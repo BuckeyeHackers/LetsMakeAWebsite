@@ -1,0 +1,29 @@
+body {
+  margin: 20px;
+  font-size: 16pt;
+}
+
+
+.content {
+    width: 768px;
+    margin: auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+img {
+  margin: 0 auto;
+  display: block;
+  height: 200px;
+  width: 300px;
+}
+
+
+
+/* Navigation menu*/
+
+
+
+/*Normal List*/
